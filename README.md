@@ -1,12 +1,13 @@
 # Neural Network
-2031561 Chaozheng Guo  
 Python implementation of neural network.  
 
 ### Packages reqired
 ```numpy``` ```argparse```
 
 ### Usage
-```python neural_network.py```  
+``` shell
+python neural_network.py
+```  
 By default, this will load breast cancer dataset and train a neural network for classification. Model prediction score will be displayed.
 
 
